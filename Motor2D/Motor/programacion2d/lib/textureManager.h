@@ -1,0 +1,1 @@
+ltex_t* loadTexture(const char* filename);
